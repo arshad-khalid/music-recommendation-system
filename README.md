@@ -1,7 +1,5 @@
 # 🎵 Music Recommendation System
 
-## Introduction
-
 **Music Recommendation System**, a project for discovering new music based on user input. This system uses a dataset of songs (CSV) to recommend tracks that match your input, utilizing advanced machine learning techniques to provide personalized suggestions.
 
 ## Overview
